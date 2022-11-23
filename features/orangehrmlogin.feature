@@ -16,9 +16,7 @@ Feature: OrangeHRM Login
     Then User must successfully login to the Dashboard
 
     Examples:
-      |username|password|
-      |admin   |admin123|
-      |admin123|admin   |
-      |adminxyz|admin123|
-      |admin   |adminxyz|
+      | username | password |
+      | admin    | admin123 |
+      | admin123 | admin    |
 
