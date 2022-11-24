@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Nov 23 16:24:32 COT 2022","Wed Nov 23 16:24:32 COT 2022","15","","","","","","Login to HRM Application",""
+"failed","Wed Nov 23 16:23:54 COT 2022","Wed Nov 23 16:24:32 COT 2022","38381","","","","","","Login to OrangeHRM with multiple parameters -- @1.2 ",""
+"passed","Wed Nov 23 16:23:39 COT 2022","Wed Nov 23 16:23:54 COT 2022","14381","","","","","","Login to OrangeHRM with multiple parameters -- @1.1 ",""
+"passed","Wed Nov 23 16:23:26 COT 2022","Wed Nov 23 16:23:39 COT 2022","13954","","","","","","Login to OrangeHRM with valid parameters",""
+"passed","Wed Nov 23 16:24:32 COT 2022","Wed Nov 23 16:24:32 COT 2022","12","","","","","","Advance Search user",""
+"passed","Wed Nov 23 16:24:32 COT 2022","Wed Nov 23 16:24:32 COT 2022","16","","","","","","Search user",""
+"passed","Wed Nov 23 16:22:59 COT 2022","Wed Nov 23 16:23:26 COT 2022","26572","","","","","","Presencia del logo de OrangeHRM en el home page",""
